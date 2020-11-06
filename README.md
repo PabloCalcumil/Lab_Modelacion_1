@@ -20,6 +20,6 @@ Estudiante de Ingeniería Civil Matemática en Universidad Técnica Federico San
 
 El presente trabajo trata sobre el entendimiento de modelos estadísticos de ignición de incendios forestales, con variables espaciales y de condiciones climáticas. 
 
-Las simulaciones numéricas abarcan una data de alrededor de 10 años, con datos de igniciones de incendios por grillas de 1km $\times$ 1km incluyendo sus condiciones climáticas instantaneas en el tiempo de ignición.
+Las simulaciones numéricas abarcan una data de alrededor de 10 años, con datos de igniciones de incendios por grillas de 1km por 1km, incluyendo sus condiciones climáticas instantáneas en el tiempo de ignición.
 
 
