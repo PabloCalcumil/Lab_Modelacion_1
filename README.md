@@ -20,6 +20,6 @@ Estudiante de Ingeniería Civil Matemática en Universidad Técnica Federico San
 
 El presente trabajo trata sobre el entendimiento de modelos estadísticos de ignición de incendios forestales, con variables espaciales y de condiciones climáticas. 
 
-Las simulaciones numéricas estarán dadas por el software llamado SPARK, de donde ya se han obtenido datos de igniciones y sus respectivas condiciones climáticas.
+Las simulaciones numéricas estarán dadas por el software llamado SPARK, de donde ya se han obtenido datos de igniciones y sus respectivas condiciones climáticas, desde hace mas de 10 años.
 
 
