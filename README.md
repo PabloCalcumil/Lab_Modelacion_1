@@ -12,7 +12,7 @@
 
 ## Portafolio Proyecto
 
-Propietario: Pablo Calcumil Alarcón
+Pablo Calcumil Alarcón
 
 Estudiante de Ingeniería Civil Matemática en Universidad Técnica Federico Santa María
 
