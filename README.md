@@ -22,4 +22,9 @@ El presente trabajo trata sobre el entendimiento de modelos estadísticos de ign
 
 Las simulaciones numéricas abarcan una data de alrededor de 10 años, con datos de igniciones de incendios por grillas de 2km por 2km, incluyendo sus condiciones climáticas instantáneas en el tiempo de ignición.
 
+Se logró analizar las distintas posibles situaciones de incendio, dadas las variables espaciales que se pueden presentar en el territorio estudiado, el cual es la zona centro-sur de Chile, dados por los datos históricos.
+
+Los datos históricos, junto con otros aspectos del proyecto, como fórmulas, bibliografía, etc, han sido quitadas del proyecto oficial, a pedido de la persona a cargo del trabajo principal, para mantener la confidencialidad.
+
+
 
